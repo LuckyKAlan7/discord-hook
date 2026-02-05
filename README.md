@@ -1,2 +1,4 @@
 # discord-hook
-test /discord
+
+test
+/discord
